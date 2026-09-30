@@ -4,3 +4,4 @@ if choice in choices:
     print("Valid choice.")
 else:
     print("Invalid choice.")
+print("Ty")
